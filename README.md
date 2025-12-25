@@ -19,7 +19,7 @@ A simple and responsive calculator app for basic arithmetic operations.
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/David-cmd0045/Calculator.git
    ```
 2. **Navigate to the project folder**
    ```sh
@@ -41,3 +41,4 @@ This project is open source and free to use.
 ## 🙏 Credits
 
 Created by Mark Dave, December 2025.
+
